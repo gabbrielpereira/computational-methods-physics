@@ -8,4 +8,4 @@ Cada um dos 11 módulos possui:
  - Plots ou arquivos TXT dos resultados obtidos
  - Relatório final sobre o módulo
 
-Em alguns módulos foi utilizada a API do OpenGL para visualização gráfica da evolução dos sistemas abordados.
+Em alguns módulos foi utilizada a API do OpenGL em C para visualização gráfica da evolução dos sistemas abordados.
