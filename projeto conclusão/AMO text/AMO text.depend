@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576201151 source:c:\users\gabri\onedrive\Área de trabalho\computacionais\amo text\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

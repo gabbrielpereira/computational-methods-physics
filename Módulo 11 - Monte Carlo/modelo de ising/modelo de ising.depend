@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575038938 source:c:\users\gabri\onedrive\Área de trabalho\computacionais\módulo 11\modelo de ising\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
