@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576033404 source:c:\users\gabri\onedrive\Área de trabalho\computacionais\módulo 7\sistema binario opengl\main.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<wincon.h>
+	<GLFW/glfw3.h>
+
